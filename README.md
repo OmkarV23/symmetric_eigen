@@ -108,7 +108,7 @@ python test.py
 ## References
 1. NumPy Linear Algebra Documentation: [numpy.linalg.eigvalsh](https://numpy.org/doc/stable/reference/generated/numpy.linalg.eigvalsh.html)
 2. CUDA Programming Guide: [NVIDIA Documentation](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
-3. Trigonometric solution for three real roots : [Link](https://en.wikipedia.org/wiki/Cubic_equation#Trigonometric_and_hyperbolic_solutions)
+3. Trigonometric solution for three real roots : [https://en.wikipedia.org/wiki/Cubic_equation#Trigonometric_and_hyperbolic_solutions](https://en.wikipedia.org/wiki/Cubic_equation#Trigonometric_and_hyperbolic_solutions)
 
 ## Contact
 [ovengurl@asu.edu]
